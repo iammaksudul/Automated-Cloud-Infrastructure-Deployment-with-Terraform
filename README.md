@@ -12,8 +12,8 @@ This repository contains a Terraform script that automates the deployment of a c
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/iammaksudul/automated-cloud-infrastructure.git
-    cd automated-cloud-infrastructure
+    git clone [https://github.com/iammaksudul/automated-cloud-infrastructure.git](https://github.com/iammaksudul/Automated-Cloud-Infrastructure-Deployment-with-Terraform)
+    cd Automated-Cloud-Infrastructure-Deployment-with-Terraform
     ```
 
 2. Initialize Terraform:
